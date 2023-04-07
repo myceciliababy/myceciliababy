@@ -7,4 +7,4 @@
 
 ### Github stats
 
-![Cecilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=myceciliababy&show_icons=true&theme=transparent)
+![cecilia's gitHub stats](https://github-readme-stats.vercel.app/api?username=myceciliababy&show_icons=true&theme=transparent)
